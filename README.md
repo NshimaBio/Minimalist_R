@@ -1,11 +1,10 @@
 # Minimalist R
-## I 对象
-## I 数据结构
-## Ⅱ 基础计算
-## Ⅲ 常用BIF
-## Ⅲ 包管理与文件读写
-## Ⅱ 字符处理
-## Ⅳ 控制流
-## V 函数
-
+## I setting
+## I data
+## Ⅱ math
+## Ⅲ string
+## Ⅳ function
+## V contol
+## VI read and write
+## VII data manipulation
 
